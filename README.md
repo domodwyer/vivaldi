@@ -1,6 +1,6 @@
 ## vivaldi
 
-An implementation of the [Vivaldi algorithm] for efficient RTT latency
+An implementation of the [Vivaldi algorithm] for efficient network latency
 estimations using an n-dimensional Euclidean model.
 
 <br />
@@ -9,8 +9,9 @@ estimations using an n-dimensional Euclidean model.
 </p>
 <br />
 
+Key points:
 * Fully decentralised
-* Accurately predicts RTT between any two nodes in the model (± ~11%)
+* Accurately predicts round-trip time between any two nodes in the model (± ~5%)
 * Low overhead - `O(n)` memory usage for `n^2` network paths
 * Quickly adapts to changes in latency between nodes due to re-routing, etc
 

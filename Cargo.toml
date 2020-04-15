@@ -1,8 +1,16 @@
 [package]
 name = "vivaldi"
 version = "0.1.0"
-authors = ["Dom <dom@itsallbroken.com>"]
+authors = ["Dom Dwyer <dom@itsallbroken.com>"]
 edition = "2018"
+
+license = "BSD-3-Clause"
+description = "Efficient network point-to-point latency estimations for large scale clusters"
+readme = "README.md"
+documentation = "https://docs.rs/vivaldi"
+repository = "https://github.com/domodwyer/vivaldi"
+keywords = ["vivaldi", "latency", "network", "ping"]
+categories = ["network-programming", "simulation"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 

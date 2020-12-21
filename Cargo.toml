@@ -16,7 +16,7 @@ categories = ["network-programming", "simulation"]
 
 [dependencies]
 serde = { version = "1.0", optional = true, features = ["derive"] }
-rand = "0.7.3"
+rand = "0.8.0"
 
 # For the serde test code
 [dev-dependencies]

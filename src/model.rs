@@ -249,7 +249,7 @@ mod tests {
             unit_vector_for(from, to),
             Some(UnitVector(Dimension3([
                 0.5773502691896258,
-                0.5773502691896258,
+                0.57735026931896258,
                 0.5773502691896258,
             ])))
         );

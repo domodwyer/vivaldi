@@ -1,3 +1,6 @@
+[![crates.io](https://img.shields.io/crates/v/vivaldi.svg)](https://crates.io/crates/vivaldi)
+[![docs.rs](https://docs.rs/vivaldi/badge.svg)](https://docs.rs/vivaldi)
+
 ## vivaldi
 
 An implementation of the [Vivaldi algorithm] for efficient network latency

@@ -8,7 +8,7 @@ estimations using an n-dimensional Euclidean model.
 
 <br />
 <p align="center">
-	<img src="https://iab-assets.s3-eu-west-1.amazonaws.com/vivaldi.gif">
+	<img src="https://assets.itsallbroken.com/github/vivaldi.gif">
 </p>
 <br />
 
